@@ -3,6 +3,8 @@ version: 1
 project:
   id: e363b725-8116-4ab5-8c06-fb3309ead9ea
   title: Git Tutorial
+  toc: 
+    - file: create_jupyter_book_tutorial.md
   # description:
   # keywords: []
   # authors: []
