@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: e363b725-8116-4ab5-8c06-fb3309ead9ea
+  title: Git Tutorial
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  title: Git Tutorial 
+  options:
+    logo_text: Git Tutorial
+    hide_footer_links: true 
+
