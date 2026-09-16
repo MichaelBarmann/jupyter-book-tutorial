@@ -5,7 +5,7 @@ project:
   title: Jupyter Book Tutorial
   toc:
     - file: index.md
-    - file: chapter1.md
+    - file: jupyter-book-setup-guide.md
 
 site:
   template: book-theme
