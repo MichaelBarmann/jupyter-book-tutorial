@@ -6,21 +6,7 @@ Based on the setup completed on September 16, 2026. The working local versions w
 
 Each numbered section groups related steps and can become a separate Jupyter Book page. Section 12 explains how to split this guide and add it to the existing book.
 
-## Contents
 
-1. [Understand the workflow](#1-understand-the-workflow)
-2. [Find or clone the repository](#2-find-or-clone-the-repository)
-3. [Find the working Jupyter Book environment](#3-find-the-working-jupyter-book-environment)
-4. [Write the pages in Typora](#4-write-the-pages-in-typora)
-5. [Configure the book](#5-configure-the-book)
-6. [Preview the book locally](#6-preview-the-book-locally)
-7. [Configure automatic publishing](#7-configure-automatic-publishing)
-8. [Commit, push, and check deployment](#8-commit-push-and-check-deployment)
-9. [Add one-click access from GitHub](#9-add-one-click-access-from-github)
-10. [Return to the project and make updates](#10-return-to-the-project-and-make-updates)
-11. [Troubleshooting](#11-troubleshooting)
-12. [Use this guide as book pages](#12-use-this-guide-as-book-pages)
-13. [Command reference and links](#13-command-reference-and-links)
 
 ## 1. Understand the workflow
 

@@ -13,5 +13,7 @@ site:
   options:
     logo_text: Jupyter Book Tutorial
     hide_footer_links: true
+    hide_toc: true 
+    style: custom.css
   parts:
     primary_sidebar_footer: _site/primary_sidebar_footer.md

@@ -1,0 +1,25 @@
+/* On wide screens, move the page outline into the left margin. */
+@media (min-width: 1280px) {
+  article.article-grid > div.lg\:col-margin-right {
+    grid-column: page-start / body-start;
+    grid-row: 1;
+    margin-left: 0;
+    margin-right: 2rem;
+  }
+}
+
+/* On narrower screens, show the contents above the page text. */
+@media (max-width: 1279px) {
+  article.article-grid > div.lg\:col-margin-right {
+    grid-column: body-start / body-end;
+    position: static;
+    height: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+
+  article.article-grid .myst-outline {
+    max-height: none !important;
+  }
+}
